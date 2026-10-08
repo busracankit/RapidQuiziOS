@@ -1,0 +1,2 @@
+// Release.xcconfig
+API_BASE_URL = https:/$()/rapidap.co
